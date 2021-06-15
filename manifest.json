@@ -3,7 +3,7 @@
 
   "name": "juleke",
   "description": "play juleke now",
-  "version": "1.3.1",
+  "version": "1.4.5",
 
   "action": { 
    "default_popup": "popup.html"
