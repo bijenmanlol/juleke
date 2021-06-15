@@ -1,3 +1,0 @@
-Dit is een extensie voor het spel Juleke!
-Hope you enjoy!
-https://www.juleke.repl.co
